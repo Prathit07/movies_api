@@ -1,0 +1,4 @@
+fastapi 
+uvicorn #production-ready asycn multithreaded server
+httpx
+pydentic #model schema
